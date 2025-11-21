@@ -1,0 +1,3 @@
+../user_code/src/utilities/logging_utility.c:31:6:__Log_Write_Internal	564	static
+../user_code/src/utilities/logging_utility.c:49:6:Log_Bare	528	static
+../user_code/src/utilities/logging_utility.c:62:6:Log_Set_Level	16	static

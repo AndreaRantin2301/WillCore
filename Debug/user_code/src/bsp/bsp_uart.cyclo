@@ -1,0 +1,2 @@
+../user_code/src/bsp/bsp_uart.c:26:19:BSP_Validate_UART_Id	2
+../user_code/src/bsp/bsp_uart.c:39:12:BSP_UART_Transmit_Blocking	3
